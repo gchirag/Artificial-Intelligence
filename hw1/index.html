@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset = "utf-8">	
+		<title>Assignment 1 - 10212</title>
+		<link href="bootstrap.css" rel="stylesheet">
+		<link href="bootstrap-responsive.css" rel="stylesheet">
+		<link rel="icon" href="favicon.ico" type="image/x-icon"> 
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
+	<head>
+	
+	<body>
+		<div class="container">
+		<div class="row">
+			<div class="span12">
+				<center>	
+					<h1>Assignment 1</h1>
+					<hr>
+				</center>
+			</div>
+			
+			<div class="span12" >
+			<p>
+			<font size=5>
+			<center>
+			<b>1. K-Nearest Neighbours</b>
+			</center>
+			<font size=4>
+<br>
+			This algorithm classifies objects based on their nearest neighbours. In the nearmost k neighbours, the most common class is calculated and
+	then assigned to the object. This scheme has a very general thought foundation ie. it's algorithm appears obvious to the common man.
+			</p>
+			<br><br>
+			<center>
+			<img src="Error_in_knn.jpg" width=900 height=400>
+			</center>
+			
+			<br><br>
+				
+			<p>
+			<font size=5>
+			<b>Observations</b>
+			<font size=4>
+	<br>		
+	As the value of k increases, the error in classification initially decreases then increases generally apart from a few exceptions.<br>
+	The <b> best value of k </b>, when done for k varying from 1 to 50 on a dataset of 60000 MNIST images, is observed to be <b> 3</b>.<br>
+	The error percentage at k=3 is observed to be <b>2.83</b>.
+			</p>
+			
+			
+			<br><br>
+		</div>
+			
+			
+			<div class="span12" >
+			<p>
+			<center>
+			<font size=5>
+			<b>2. ISOMAP </b><br>
+			</center>
+		<br><br>	
+		<b>Brief</b>
+<br>
+<font size=4>
+		Isomap firstly finds the distance along a curve or manifold, i.e. the geodesic distance, between points given in the input.
+		This is done using the shortest path distances on the k-nearest neighbour graph of the data.
+		<br>
+		Then MDS is used to find points in Euclidean Space which is of lower dimensions, whose distance matches the geodesic distances found earlier.
+		
+		<br><br>	
+<font size=5>
+		<b>Euclidean Distance 1 and 7</b>	
+			<center>
+			<img src="A_1_and_7/Euclidean_distance/Euclidean_1_and_7.jpg" width=1100 height=700>
+			</center>
+		<b>Tangential Distance 1 and 7</b>	
+			
+			<center>
+			<img src="A_1_and_7/Tangent_distance/Tangent_distance_1_and_7.jpg" width=1100 height=700>
+			</center>
+		<b>Euclidean Distance 4 and 9</b>	
+			
+			<center>
+			<img src="B_4_and_9/Euclidean_distance/Euclidean_4_and_9.jpg" width=1100 height=700>
+			</center>
+		<b>Tangential Distance 4 and 9</b>	
+			
+			<center>
+			<img src="B_4_and_9/Tangent_distance/Tangent_distance_4_and_9.jpg" width=1100 height=700>
+			</center>
+		<b>Euclidean Distance all digits</b>	
+			
+			<center>
+			<img src="C_all_digits/Euclidean_distance/Euclidean_all_digits.jpg" width=1100 height=700>
+			</center>
+		<b>Tangential Distance all digits</b>	
+			
+			<center>
+			<img src="C_all_digits/Tangent_distance/Tangent_distance_all_digits.jpg" width=1100 height=700>
+			</center>
+			
+		
+			<br><br><br>
+		<b>Key Observation from Isomap</b>
+		<br><br>
+		<font size=4>
+		Tangent Distance is a better distance metric than the Euclidean distance metric. The clusters are denser in the tangent distance metric case as evident from the above figures. 
+			<br><br>
+			<font size=3>
+</div>
+		<div class="span12">
+		<p>
+		<font size=5>
+		<center>
+		<b>3.Deep Learning</b>
+		</center>
+		<font size=4>
+		Deep learning is based on learning several levels of representations,and the learning time of model depends on various parameters.
+		The ones which I have considered are : learning rate, epoch, batch size,dbn size and alpha.
+		
+		The highest accuracy I could come up with corresponded to an error of <b>2.05 percent</b>.
+		
+		
+		Here is a link to my observation <a href="dbn.html">Table</a> for deep learning.
+		</p>
+		<br><br>
+		<p>
+		<font size=5>
+		<b>Observation</b>
+		<font size=4>
+		<ul>
+						<li>Increasing no. of epochs decreases the error of DBN.</li>
+						<li>There is no direct relation between Alpha and performance of the network.</li>
+						<li>Incresing the number of layers in the network may not be always helpful.</li>
+						<li>Learning rate and batch size appear to be optimum at around 5 and 50 respectively. </li>
+					</ul>
+		</p>
+		
+		
+		</div>
+
+			
+		</div>
+		
+		</div>
+		</body>
+		</html>
+		

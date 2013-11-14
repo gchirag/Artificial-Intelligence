@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset = "utf-8">	
+		<title>Assignment 3 - 10212</title>
+		<link href="bootstrap.css" rel="stylesheet">
+		<link href="bootstrap-responsive.css" rel="stylesheet">
+		<link rel="icon" href="favicon.ico" type="image/x-icon"> 
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
+	<head>
+	
+	<body>
+		<div class="container">
+		<div class="row">
+			<div class="span12">
+				<center>	
+					<h1>Assignment 3</h1>
+					<hr>
+				</center>
+			</div>
+			
+			<div class="span12" >
+			<p>
+			<font size=5>
+			<center>
+			<b>PART A</b>
+			</center>
+			<font size=4>
+<br><br><br>
+	There is a sharp elbow in this graph at dimensionality 2, so we can deduce that the remaining dimensions are not important.
+	Also, Residual error doesn't fall off significantly for dimensions > 2.
+			</p>
+			<br><br>
+			<center>
+			<img src="final images/parta.png" width=900 height=600>
+			</center>
+<p>
+			<font size=5>
+			<br><br><br>
+			<center>
+			<b>PART B</b>
+			</center>
+			<font size=4>
+			
+		
+			</p>
+			<br><br>
+			<center>
+			<img src="final images/partb.png" width=1300 height=600>
+			</center>
+			
+			
+			
+<br><p>
+			<font size=5>
+			<center>
+			<b>PART C</b>
+			</center>
+			
+		<br><br>
+		<p><font size=4>In this 2d embedding,the manifold observed is a torus. Here, theta 1 varies along the circumference of the torus and theta 2 along the radius. Theta 2's variation can also be observed from part b above, ie. the points close to each other but having different distance from centre have same values of theta1 and different values of theta 2. 
+		</p>
+		<br><br><p><h2>Variation of theta 1</h2><br><br></p>
+			<img src="final images/partca.png" width=1300 height=600>
+<br><br><p><h2>Variation of theta 2 - Zoomed in</h2><br><br></p>
+			<img src="final images/partcbi.png" width=1300 height=600>
+			<p><h2>A bit Zoomed out version</h2><br><br></p>
+			<img src="final images/partcbii.png" width=1300 height=600>
+			<p><h2>Still zoomed out</h2><br><br></p>
+			<img src="final images/partcbiii.png" width=1300 height=600>
+			<font size=5>
+			<center>
+			<br><br>
+			<b>PART D</b>
+			</center>
+			<br><br>
+			<font size=4>
+			Manifold observed is a torus. Here I am showing this from different angles.
+</p>
+					<br><br>
+			<img src="final images/torus1.png" width=1300 height=600>
+			<br><img src="final images/torus2.png" width=1300 height=600>
+			<br><img src="final images/torus3.png" width=1300 height=600>
+			<br><img src="final images/torus4.png" width=1300 height=600>
+			<br><img src="final images/torus5.png" width=1300 height=600>
+			<br><img src="final images/torus6.png" width=1300 height=600>
+
+
+<br><br><br><br><p>
+			<font size=5>
+	
+<br>		<center>
+			<b>PART E</b>
+			</center>
+			<br><br><font size=4>
+			The distribution between training, validation and test is of 2100,450,450 samples ie. 70,15,15 percentages.<br>
+			The training from embedding of (v1,v2) to the control parameters is faster than the training from embedding of images to the control parameters
+because images contain a lot of unnecessary data whereas (v1,v2) are intrinsic parameters of the data.			
+			
+			</p>
+			<center>
+			<br><br><br>
+			<h2>From Isomap 2d parameters to Sines-Cosines</h2>
+			<br><br><br>
+			<img src="final images/partev1v2.png" width=1300 height=600>
+			<br><br><br>
+			<h2>From Images Sines-Cosines</h2>
+			<br><br><br>
+			<img src="final images/partecoords.png" width=1300 height=600>
+						<br><br>
+			<br><br>
+
+			<img src="final images/partev1v2neural.png" width=500 height=1100>
+			
+			<img src="final images/partecoordstime.png" width=500 height=1100>
+			
+			<p><font size=4>Left one corresponds to Isomap 2d parameters and the right one corresponds to images.</p>
+			<br><br><br><br><br>
+			<img src="final images/partepathplanning.png" width=1300 height=600>
+			<br><br><br><br>
+			<p><font size=4>This is the path planning without any obstacles.</p>
+			
+			
+			</center>
+			
+			
+<br><br><br><br><br>			<br><p>
+			<font size=5>
+			<center>
+			<b>PART F</b>
+			</center>
+			<font size=4>
+<br><p>
+<ul>
+<li>First the pixels of the obstacles are identified. This is solely done by identifying the green(0,255,0) pixels from the image containing the obstacle. 
+<li>Then those images' indices are noted in which the pixels pertaining to the above are having any color other than black(0,0,0).
+	They are stored in intersecting array.
+<li>Then in isomap the distances pertaining to these intersecting indices are made infinite for a copy of the distance matrix on which we plan the shortest path.
+<li>This path is plotted on the coordinates computed by the original distance matrix.
+</ul>
+
+</p>
+			<img src="final images/partfpathplanning.png" width=1300 height=600>
+
+			<font size=5>
+			<center>
+			<b>PART G</b>
+			</center>
+			<font size=4>
+<br>
+The obstacle 2 affects only 81 nodes out of 3000, ie. most of the nodes are still intact. 
+In F obstacle was so near to the object that shortest path between 1 and 161 had to go through the other side.
+Here the obstacle can be avoided even after going through the same side.
+
+Thus position of obstacle alters the paths by a great deal in part f and g.
+</p>
+
+<br>
+			<img src="final images/partg.png" width=1300 height=600>
+			<img src="final images/partg2.png" width=1300 height=600>
+			<img src="final images/partg3.png" width=1300 height=600>
+
+
+<h3>REFERENCES</h3>
+					Isomap.m <a href = "http://web.mit.edu/cocosci/isomap/code/Isomap.m">this link</a>.<br>
+					loadImageData from <a href="http://www.cse.iitk.ac.in/users/cs365/2012/hw2.html">this link</a>.<br><br><br>
+
+<h3>
