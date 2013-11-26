@@ -1,0 +1,7 @@
+MUMBAI: Forensic experts have determined that an e-mail claim of responsibility for Wednesday’s terror attacks issued by an until-now unknown terror group was first generated on a computer located in Pakistan. Issued by a group calling itself the ‘Deccan Mujahideen,’ the e-mail was sent out to TV newsrooms, minutes after the attacks in Mumbai.
+
+Based on studies of the internet protocol addresses used to send the mail, computer specialists at India’s RAW found that the Russia-based e-mail address used to send the document was opened early on Wednesday. This e-mail account was opened by a computer user based in Pakistan.
+
+Government sources said RAW experts have determined, using specialised analytical software, that the document was generated using a voice-recognition software which allowed dictated text to be typed in the Devnagari font.
+
+Modelled on a series of English-language manifesto issued by the Indian Mujahideen after the terror group bombed New Delhi in September, the similarities in content and style between the two documents raised the possibility that their authors could be linked. 

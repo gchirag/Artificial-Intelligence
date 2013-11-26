@@ -1,0 +1,75 @@
+ There was a flurry of reports in early March when new results on the search for the Higgs boson were presented by scientists attending a conference in Italy. If you noticed, they all constantly referred to the particle as the ‘SM Higgs’.
+
+SM stands for the Standard Model, a set of rules and guidelines that dictate how particles should behave in different situations. So, calling it the SM Higgs meant it was the sort of Higgs boson that played by the Standard Model’s rules.
+
+As it so happens, the Standard Model is hardly complete. In fact, it falls short in many important aspects. Here’s a very fundamental instance. In the Model, particles are classified in terms of their properties - which is a sensible way to classify anything, really. But as the particles were being sorted, scientists realized they couldn’t really explain why there were only as many particles as there were.
+
+There were bosons, leptons and quarks. Of these, quarks and leptons could be thrown together to form a class called fermions, and fermions, scientists found, came in three families: There were three types of leptons and three types of quarks. And when anyone asked the question why there were three types and not two or four, nobody had an answer.
+
+So, it’s only fair that a particle that exists in such a clueless-in-parts model also be inexplicable in parts.
+
+That means the SM Higgs also hasn’t much to say when it comes to fermions and their family problems. That's not cool when you're spending billions of dollars looking for the answer to everything. So, physicists looking for signs of a "new physics" that has new solutions expect to see them in the search for the Higgs boson itself.
+
+Why doesn't anyone abandon the model and simply start from scratch? Because the Standard Model has been remarkably accurate in all matters where it has had a solution to offer. It seldom missed the mark, and when it did, it wouldn’t miss it by much.
+
+So, when the time came for the model to really buck up or be subsumed under a supermodel (pun unintended), the solutions scientists came up with were interesting. They had to have been because what they’d set out to explain was something the formidable Standard Model couldn’t.
+
+Option 1 - Fourth generation of fermions
+
+For starters, it’s only logical that someone went after the three-family problem, proposing instead that there are four families of fermions. That there could be four families isn’t ruled out by data from experiments. In fact, it also gives physicists more places to look in for a solution for what’s called the CP problem: Why isn’t a particle that’s swapped with its antiparticle and then has its left and right swapped similar to its original version?
+
+Theoretically, a four-family Standard Model (SM4) fits the bill. What about experimentally?
+
+Assuming there are four families of fermions, and given the heavy Higgs quickly decays into a signature combination of lighter particles such as different fermions, physicists will know to expect more signatures of the Higgs than before. Herein lies one rub. The chances of a normal SM Higgs decaying to one signature over another are well-defined by the Standard Model. So, for a “new” Standard Model, experimentalists will have to recalculate those chances to accommodate a new family and, thus, new signatures.
+
+This involves a lot of estimations and assumptions, such as:
+
+1. The SM4 Higgs weighs the same as the SM3, Higgs, or
+
+2. The SM4 leptons weigh about 100 GeV (about 100 times the mass of a proton), or
+
+3. The SM4 leptons are much heavier, weighing almost 1,000 GeV,
+
+4. In both these cases, the SM4 quarks weigh the same as SM3 quarks, and
+
+5. In SM4, the Higgs boson decays to two W bosons or to two Z bosons with the same probability as in SM3
+
+These are some pretty strong assumptions to make. Nonetheless, they were made earlier in April (2013) by a team of analysts working at Fermilab, IL., and they found that the conditions were feasible for the SM4 idea to persist. They couldn't draw any stronger conclusions because, unfortunately, the collider at Fermilab was shut in 2011. Now, we’ll have to wait until 2015 - when the Large Hadron Collider will reawaken in Europe - to smash particles anew keeping the assumptions in mind.
+
+If, in fact, we do find that there are four families in place of three, then not only does it break the philosophical gridlock we’ve been having but also opens the doors to us possibly having been wrong about many other things.
+
+Option 2 - Fermiophobic Higgs
+
+Not surprisingly, some scientists decided to go the other way. Instead of assuming there was a fourth kind of fermion out there, they said that the Higgs boson isn’t alone, but that it was part of a family of particles. In its simplest form, this idea posited that there were at least two Higgs bosons - one heavy and one light.
+
+An extension of this idea is a suggestion that the lighter of these siblings is fermiophobic. In other words, the lighter Higgs cannot decay into fermions. To have this idea proven, a theoretician would only have to give an experimentalist the recalculated chances for the Higgs leaving one signature over another (as in the previous option).
+
+Because the Higgs can’t decay into fermions, its decay rates to other kinds of particles, such as photons and W bosons, will have to increase a lot. Zeroing in on their values will again invoke the sort of assumptions we had to make in the previous example. Nevertheless, recent data interpretations have shown that a fermiophobic Higgs doesn’t exist in the 100-116 GeV mass range at 95 per cent confidence level.
+
+Option 3 - Minimal Supersymmetric Standard Model
+
+In the first option, someone really cared for fermions. In the second option, someone really didn’t want the others to care about fermions but instead about two Higgs bosons. In the third option, someone wants to chuck the idea of two Higgs bosons and bring in one of not three, not four... but five Higgs bosons. In order to do this, the same someone invokes an exotic supermodel named SUSY (again, pun unintended), i.e. supersymmetry.
+
+Before we go on, I must tell you that SUSY is on the verge of abandonment. Oh, sure, theorists really like it - some of them call it elegant even - but when the world’s most powerful supercollider can’t find any signs of it, you start to think if something’s wrong...
+
+Anyway, SUSY hypothesizes that the particles called fermions and bosons we (think we) know so well aren’t actually alone: they each have a superpartner that’s heavier and from the other family. So, an electron, which is a fermion, will have a superpartner boson which physicists call a selectron. Similarly, a Higgs boson will have a superpartner fermion called a Higgsino.
+
+When physicists tried to incorporate the rules of SUSY into the Standard Model, they saw that five Higgs bosons would be necessary to explain away some problems. Of these, three would be neutral, and collectively denoted as F, and two would be charged, denoted H+ and H-. Moreover, the F Higgs would have to decay into one bottom quark and one bottom antiquark a whopping 90 per cent of the time.
+
+OK, there’s more bad news. While all that experimentalists would have to look for is a Higgs boson-like particle decaying into the bottom quark-antiquark pair 900 times in 1,000 instances, the Standard Model stands in the way. Like I said, it can be frustratingly accurate at times, and this happens to be one such time: it predicts that an SM Higgs will decay to a bottom quark-antiquark pair 56.1 per cent of the time...
+
+And it does.
+
+So, in the words of Prof. Chris Parkes: SUSY is “in the hospital”. In case you’re wondering: It won’t die anytime soon because many believe such a fine model will probably exist at much higher energies - especially (and conveniently) at ones in which we haven’t looked yet.
+
+Option 4 - Cascade decays
+
+In the previous option, we looked at an instance of five Higgs bosons. Of them, the three neutral ones were collectively titled F. If you’d probed a little bit, I’d have told you that they were each called H, h, and A. Of these, it is probable that the H decays into an H+ or H- together with a W boson. Subsequently, the charged Higgs would then decay into h and another W boson.
+
+Some physicists think that what’s been spotted at the LHC isn’t an SM Higgs but the h that we’re talking about, weighing 126 GeV, and eventually decaying into a bottom quark-antiquark pair.
+
+The analysis that’d have to be conducted to prove this hypothesis is simple. All instances of W-boson pairs would have to be backtracked to an origin-point, and then compared to a backtracking of all bottom quark-antiquark pairs. If there are parallel variations that indicate some sort of a relation between the two data-sets, then it’s bingo.
+
+Otherwise... well, it’s the don’t-give-up-yet-because-you-haven’t-looked-everywhere-yet desperation all over again - and the included wait till 2015 for the Large Hadron Collider to return to life and yield more, sharper data.
+
+That’s about it as far as the more prominent post-Standard Model models are concerned. There are many others: it is, after all, easier, cheaper to work it out on paper. However, finding one with even a smidgen of consistency across problems can be a big deal. For, despite its incompleteness, the world beyond the Standard Model is pretty dark, if not pitch dark. 

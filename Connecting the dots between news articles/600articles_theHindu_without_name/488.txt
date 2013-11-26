@@ -1,0 +1,18 @@
+ Scientists have developed the fastest-ever integrated circuit to transmit data in the demanding environment of the Large Hadron Collider (LHC) or the Big Bang machine, the world’s largest physics experiment.
+
+The new “link-on-chip” - or LOC serialiser circuit - was designed by physicists at Southern Methodist University (SMU), Dallas, as a component for use in a key experiment of the LHC particle accelerator in Europe.
+
+The serialiser transmits data shower from colliding protons in the experiment. With a data transmission rate of 5.8 billion-bits per second, the SMU LOC serialiser represents the first milestone for the SMU-led team.
+
+The LHC, as it’s called, is a massive, high-tech tunnel about 100 metres underground. Within the LHC’s circular, 17-mile-long tunnel, protons travelling at high energy are smashed together and broken apart so physicists worldwide can analyse the resulting particle shower detailed in a flood of electronic data.
+
+Physicists analyse the data to discover answers to unsolved scientific mysteries such as the Big Bang, dark matter, black holes, the nature of the universe and the Higgs particle that gives mass to quarks and electrons.
+
+The LHC is a programme of the Geneva-based international scientific consortium known as the European Organisation for Nuclear Research, or CERN.
+
+The SMU LOC serialiser was perfected over the past three years in the SMU Research Lab for Optoelectronics and ASIC Development in the Department of Physics.
+
+An added feature of the serialiser is that it can operate at cryogenic temperatures and has been tested down to liquid nitrogen temperatures of -210 degrees Celsius, an SMU release said.
+
+SMU's new LOC serialiser is critical for the upgrade of the LHC, called the Super LHC, which is planned to go online in 2017, physicist Jingbo Ye, who led the development of the serialiser, said.
+

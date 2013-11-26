@@ -1,0 +1,23 @@
+GENEVA: The particle collider that was launched with fanfare on September 10 has been damaged to a degree worse than previously thought and will be out of commission for at least two months, its operators said on Saturday.
+
+Experts have gone into the 27-km circular tunnel housing the Large Hadron Collider under the Swiss-French border to examine the damage that halted operations about 36 hours after the September 10 start-up, said James Gillies, spokesman for CERN, the European Organisation for Nuclear Research.
+
+“It’s too early to say precisely what happened, but it seems to be a faulty electrical connection between two magnets that stopped superconducting, melted and led to a mechanical failure and let the helium out,” he said.
+
+The sector that was damaged will have to be warmed up well above the absolute zero temperature used for operations so that repairs can be made. “A number of magnets raised their temperature by around 100 degrees. We have now to warm up the whole sector in a controlled manner before we can actually go in and repair it.”
+
+The $10-billion collider, in the design and construction stages for more than two decades, is the world’s largest atom smasher. It fires beams of protons from the nuclei of atoms around the tunnels at nearly the speed of light.
+
+It then causes the protons to collide, revealing how the tiniest particles were first created after the “big bang,” which many theorise was the massive explosion that formed the stars, planets and everything else.
+
+He said such failures occur frequently in particle accelerators, but that it was made more complicated in this case because the Large Hadron Collider operates at near absolute zero, colder than outer space, for maximum efficiency. “When they happen in our other accelerators, it’s a matter of a couple of days to fix them,” Mr. Gillies said. “But because this is a superconducting machine and you’ve got long warm-up and cool-down periods, it means we’re going to be off for a couple of months.”
+
+It would take “several weeks minimum” to warm up the sector. “Then we can fix it. Then we cool it down again.”
+
+CERN announced on Thursday it had shut down the collider after a successful start-up that had beams of protons circling in both clockwise and counter-clockwise directions in the collider. It was at first thought the failure of an electrical transformer that handles part of the cooling was the problem, CERN said. That transformer was replaced last weekend and the machine was lowered back to operating temperature to prepare for a resumption of operations.
+
+But then more inspections were needed and it was determined that the problem was worse than initially thought, said Mr. Gillies.
+
+The CERN experiments with the particle collider hope to reveal more about “dark matter,” antimatter and possibly hidden dimensions of space and time. They could also find evidence of a hypothetical particle — the Higgs boson — which is sometimes called the “God particle” because it is believed to give mass to all other particles, and thus to matter that makes up the universe.
+
+The LHC’s start came over the objections of some who feared the collision of protons could eventually imperil the earth by creating micro black holes. 

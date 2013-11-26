@@ -1,0 +1,43 @@
+Ever since CERN announced that it had spotted a Higgs boson-like particle on July 4, 2012, their flagship Large Hadron Collider (LHC), apart from similar colliders around the world, has continued running experiments to gather more data on the elusive particle.
+
+The latest analysis of the results from these runs was presented at a conference now underway in Italy.
+
+While it is still too soon to tell if the one spotted in July 2012 was the Higgs boson as predicted in 1964, the data is convergent toward the conclusion that the long-sought particle does exist and with the expected properties. More results will be presented over the upcoming weeks.
+
+In time, particle physicists hope that it will once and for all close an important chapter in physics called the Standard Model (SM).
+
+The announcements were made by more than 15 scientists from CERN on March 6 via a live webcast from the Rencontres de Moriond, an annual particle physics forum that has been held in La Thuile, Italy, since 1966.
+
+“Since the properties of the new particle appear to be very close to the ones predicted for the SM Higgs, I have personally no further doubts,” Dr. Guido Tonelli, former
+
+spokesperson of the CMS detector at CERN, told The Hindu .
+
+Interesting results from searches for other particles, as well as the speculated nature of fundamental physics beyond the SM, were also presented at the forum, which runs from March 2-16.
+
+A precise hunt
+
+A key goal of the latest results has been to predict the strength with which the Higgs couples to other elementary particles, in the process giving them mass.
+
+This is done by analysing the data to infer the rates at which the Higgs-like particle decays into known lighter particles: W and Z bosons, photons, bottom quarks, tau leptons, electrons, and muons. These particles’ signatures are then picked up by detectors to infer that a Higgs-like boson decayed into them.
+
+The SM predicts these rates with good precision.
+
+Thus, any deviation from the expected values could be the first evidence of new, unknown particles. By extension, it would also be the first sighting of ‘new physics’.
+
+Good and bad news
+
+After analysis, the results were found to be consistent with a Higgs boson of mass near 125-126 GeV, measured at both 7- and 8-TeV collision energies through 2011 and 2012.
+
+The CMS detector observed that there was fairly strong agreement between how often the particle decayed into W bosons and how often it ought to happen according to theory. The ratio between the two was pinned at 0.76 +/- 0.21.
+
+Dr. Tonelli said, “For the moment, we have been able to see that the signal is getting stronger and even the difficult-to-measure decays into bottom quarks and tau-leptons are beginning to appear at about the expected frequency.”
+
+The ATLAS detector, parallely, was able to observe with 99.73 per cent confidence-level that the analysed particle had zero-spin, which is another property that brings it closer to the predicted SM Higgs boson.
+
+At the same time, the detector also observed that the particle’s decay to two photons was 2.3 standard-deviations higher than the SM prediction.
+
+Dr. Pauline Gagnon, a scientist with the ATLAS collaboration, told this Correspondent via email, “We need to asses all its properties in great detail and extreme rigour,” adding that for some aspects they would need more data.
+
+Even so, the developments rule out signs of any new physics around the corner until 2015, when the LHC will reopen after a two-year shutdown and multiple upgrades to smash protons at doubled energy.
+
+As for the search for Supersymmetry, a favoured theoretical concept among physicists to accommodate phenomena that haven’t yet found definition in the Standard Model: Dr. Pierluigi Campana, LHCb detector spokesperson, told The Hindu that there have been only “negative searches so far”.

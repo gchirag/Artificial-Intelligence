@@ -1,0 +1,9 @@
+ Reports indicate that the Large Hadron Collider (LHC), popularly called the ‘Big Bang machine’, is going to skip medium-energy proton collisions, jumping straight to its maximum energy in 2013, after it finishes collecting lower-energy data and has its circuitry upgraded.
+
+The world’s biggest particle accelerator, located outside Geneva, Switzerland, has recovered from its 2008 accident. In 2009, it broke the world record for particle collision energy when its two oppositely directed proton beams each reached 1.18 TeV, for a total energy of 2.36 TeV.
+
+That made it slightly more powerful than its US competitor, Fermilab, which has been colliding particle beams with energies of 1 TeV, adding up to a total energy of 2 TeV.
+
+According to a report in New Scientist, after a brief holiday hiatus, the LHC is getting ready to start up again. Its managers have decided to carry out collisions for two years at 3.5 TeV per beam. At the end of 2011, it will shut down for a year for circuitry upgrades, returning in 2013 at its maximum design energy of 7 TeV per beam, or 14 TeV in total.
+
+There had been talk of pushing the LHC to a middling energy of 5 TeV per beam prior to the shutdown at the end of 2011. But scientists apparently decided that was not worth the risk. During the shutdown, the LHC’s electrical connections will be upgraded, making it more robust against short circuits of the kind that caused the 2008 accident. 

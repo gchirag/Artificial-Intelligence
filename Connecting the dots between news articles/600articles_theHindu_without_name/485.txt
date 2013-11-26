@@ -1,0 +1,31 @@
+ After a successful three-year run that saw the discovery of a Higgs-boson-like particle in early 2012, the Large Hadron Collider (LHC) at CERN, near Geneva, Switzerland, will shut down for 18 months for maintenance and upgrades.
+
+This is the first of three long shutdowns, scheduled for 2013, 2017, and 2022. Physicists and engineers will use these breaks to ramp up one of the most sophisticated experiments in history even further.
+
+According to Mirko Pojer, Engineer In-charge, LHC-operations, most of these changes were planned in 2011. They will largely concern fixing known glitches on the ATLAS and CMS particle-detectors. The collider will receive upgrades to increase its collision energy and frequency.
+
+Presently, the LHC smashes two beams, each composed of precisely spaced bunches of protons, at 3.5-4 tera-electron-volts (TeV) per beam.
+
+By 2015, the beam energy will be pushed up to 6.5-7 TeV per beam. Moreover, the bunches which were smashed at intervals of 50 nanoseconds will do so at 25 nanoseconds.
+
+After upgrades, “in terms of performance, the LHC will deliver twice the luminosity,” Dr. Pojer noted in an email to this Correspondent, with reference to the integrated luminosity. Precisely, it is the number of collisions that the LHC can deliver per unit area which the detectors can track.
+
+The instantaneous luminosity, which is the luminosity per second, will be increased to 1x1034 per centimetre-squared per second, ten-times greater than before, and well on its way to peaking at 7.73x1034 per centimetre-squared per second by 2022.
+
+As Steve Myers, CERN’s Director for Accelerators and Technology, announced in December 2012, “More intense beams mean more collisions and a better chance of observing rare phenomena.” One such phenomenon is the appearance of a Higgs-boson-like particle.
+
+The CMS experiment, one of the detectors on the LHC-ring, will receive some new pixel sensors, a technology responsible for tracking the paths of colliding particles. To make use of the impending new luminosity-regime, an extra layer of these advanced sensors will be inserted around a smaller beam pipe.
+
+If results from it are successful, CMS will receive the full unit in late-2016.
+
+In the ATLAS experiment, unlike with CMS which was built with greater luminosities in mind, pixel sensors are foreseen to wear out within one year after upgrades. As an intermediate solution, a new layer of sensors called the B-layer will be inserted within the detector for until 2018.
+
+Because of the risk of radiation damage due to more numerous collisions, specific neutron shields will be fit, according to Phil Allport, ATLAS Upgrade Coordinator.
+
+Both ATLAS and CMS will also receive evaporative cooling systems and new superconducting cables to accommodate the higher performance that will be expected of them in 2015. The other experiments, LHCb and ALICE, will also undergo inspections and upgrades to cope with higher luminosity.
+
+An improved failsafe system will be installed and the existing one upgraded to prevent accidents such as the one in 2008.
+
+Then, an electrical failure damaged 29 magnets and leaked six tonnes of liquid helium into the tunnel, precipitating an eight-month shutdown.
+
+Generally, as Martin Gastal, CMS Experimental Area Manager, explained via email, “All sub-systems will take the opportunity of this shutdown to replace failing parts and increase performance when possible.” 
